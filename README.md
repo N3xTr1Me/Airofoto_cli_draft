@@ -1,4 +1,4 @@
-# Project_draft_repo
+# Airofoto_cli_draft
 
 ## Краткое описание:
 
