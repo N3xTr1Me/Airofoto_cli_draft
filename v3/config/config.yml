@@ -1,0 +1,35 @@
+src: D:\figures.bmp
+commands:
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+1:
+  type: move
+  x: 12.0
+  y: -81.9
+  z: 0.15
+2:
+  deg_rad: Radian
+  type: rotate
+  x: 18
+  y: 91
+  z: 10
+3:
+  down-left: true
+  down-right: false
+  type: cut
+  up-left: true
+  up-right: false
+4:
+  degree: 2
+  type: patch
+5:
+  above_below: Below
+  height: 100.17
+  type: remove
+6:
+  path: D:\Canvas_1.bmp
+  type: mount
